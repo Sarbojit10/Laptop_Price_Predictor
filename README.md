@@ -8,7 +8,7 @@ A high-accuracy Machine Learning web application that estimates laptop prices ba
 *(Upload a screenshot of your dashboard here to make it look professional)*
 
 ## 🚀 Key Features
-* **Advanced AI Brain:** Powered by a **Random Forest Regressor** achieving **82.29% Accuracy**.
+* **Advanced AI Brain:** Powered by a **Random Forest Regressor** achieving **82.29% Accuracy** .
 * **Smart Dashboard:** Features a clean, responsive UI with a "Tech Blue" gradient theme.
 * **Real-Time Analytics:** Includes charts for market analysis (Brand vs. Price, RAM trends).
 * **Live Currency Conversion:** Automatically converts predictive values from Paisa to Indian Rupees (₹).
