@@ -20,7 +20,7 @@ A high-accuracy Machine Learning web application that estimates laptop prices ba
 * **Deployment:** Streamlit Cloud
 
 ## 📊 Project Workflow
-1. **Data Ingestion:** Processed a dataset of 977 laptops with complex specs.
+1. **Data Ingestion:** Preprocessed a dataset of 977 laptops; implemented a 1/100 scaling factor to convert raw values from Paisa to Indian Rupees (INR) for realistic price estimation.
 2. **Preprocessing:** Built a `ColumnTransformer` pipeline to handle One-Hot Encoding for 11 categorical variables.
 3. **Modeling:** Trained a Random Forest Regressor (n_estimators=100) to capture non-linear pricing patterns.
 4. **Deployment:** Hosted on Streamlit Cloud with CI/CD integration via GitHub.
